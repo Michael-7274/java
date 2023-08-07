@@ -1,2 +1,2 @@
 # java
-new java repo
+just java
